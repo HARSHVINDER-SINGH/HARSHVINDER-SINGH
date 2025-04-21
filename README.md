@@ -1,47 +1,89 @@
-<h1 align="center">Hey 👋, I'm Harshvinder Singh</h1>
-<h3 align="center">🚀 A curious mind on a journey through tech & learning</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#f75c7e;">Harshvinder Singh</span></h1>
+<h3 align="center">🚀 Tech Explorer | 💡 Lifelong Learner | 🧠 AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Student+%F0%9F%93%9A;Tech+Enthusiast+%F0%9F%94%A5;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=⚡+Engineer+in+the+Making;🌐+Full-stack+Developer;🤖+AI+%2B+ML+Explorer;🎯+Focused+on+Growth+%26+Impact" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👤 About Me
+## 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing **M.tech** at **Lovely Professional University**
-- 🌱 I’m deeply interested in:
-  - Artificial Intelligence & Machine Learning 🤖
-  - Data Science & Visualizations 📊
-  - Web Development & Automation 💻
-- 🔭 I’m working on building my skill set and preparing exciting projects!
-- 🎯 Goal: Become a versatile engineer & problem-solver
-- 💬 Ask me about tech, learning, or productivity hacks!
+🎓 Pursuing **M.Tech** at **Lovely Professional University**  
+🌱 Passionate about:
+- 🤖 Artificial Intelligence & Machine Learning  
+- 📊 Data Science, Analytics & Visualizations  
+- 🌐 Web Development & Automation Tools  
 
----
+🔥 Currently building exciting projects & sharpening my skills  
+🎯 Long-term Vision: **Becoming a versatile engineer & a creative problem-solver**
 
-## 💡 Fun Facts
-
-- 🧠 Love diving into new concepts & tinkering with code
-- 🎧 Music helps me code better 🎵
-- ☕ Coffee > Bugs 🐞
+💬 Ask me about:
+- 📌 AI, ML, Deep Learning
+- 🛠️ Python, Web Dev, GitHub tricks
+- 📚 Productivity hacks & smart learning
 
 ---
 
-## 📫 Let's Connect
+## 🧩 Skills Snapshot
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/harshvindersingh15122000/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:singh.harshvinder2000@gmail.com)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-254BDD?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats _(coming soon!)_
+## ⚡ Fun Facts
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshvinder Singh&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshvinder Singh&theme=radical" width="48%"/>
+- 🧠 Always curious, always learning
+- 🎧 Code better with lo-fi & instrumental beats
+- ☕ Coffee helps debug my brain
+- 🛸 Building stuff that makes life easier
+
+---
+
+## 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/harshvindersingh15122000/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:singh.harshvinder2000@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">⚡ Building the future, one line of code at a time ⚡</p>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshvinderSingh&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshvinderSingh&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshvinderSingh&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+---
+
+## 🎧 Now Playing
+
+<p align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3DQVGC1oRkTx83tD1ztCev?utm_source=generator" width="60%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
+
+<h3 align="center">⚡ Building the future, one line of code at a time ⚡</h3>
