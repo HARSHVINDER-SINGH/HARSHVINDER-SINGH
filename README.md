@@ -63,6 +63,12 @@
 </p>
 
 ---
+<!-- Profile Visitors Counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/HarshvinderSingh/count.svg" alt="Profile Visitors" />
+</p>
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 12px;" />
