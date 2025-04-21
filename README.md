@@ -71,6 +71,16 @@
 **🎬 Bored? Let's dive into some anime adventures!**  
 [![Anime](https://img.shields.io/badge/Anime-FC4C9C?style=for-the-badge&logo=anime&logoColor=white)](https://hianimez.to/home)
 
+<p align="center">
+  <a href="https://github.com/HarshvinderSingh">
+    <img src="https://img.shields.io/badge/Theme-Light-%23FF69B4?style=for-the-badge&logo=github&logoColor=black" alt="Light Theme"/>
+  </a>
+  <a href="https://github.com/HarshvinderSingh">
+    <img src="https://img.shields.io/badge/Theme-Dark-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Dark Theme"/>
+  </a>
+</p>
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 12px;" />
