@@ -26,14 +26,6 @@
 
 ---
 
-## 🧩 Skills Snapshot
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,r,js,html,css,git,streamlit,github,vscode&theme=dark" />
-</p>
-
----
-
 ## 🎮 Flappy Bird Game
 
 <p align="center">
@@ -53,60 +45,94 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 Motivational Quote Generator
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshvinderSingh&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=HarshvinderSingh&theme=radical&hide_border=false" width="48%" />
+  <div style="background-color: #212121; color: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.5); width: 80%; text-align: center;">
+    <h3>Get Your Daily Motivation</h3>
+    <p id="quote" style="font-size: 18px; font-weight: bold; color: white;"></p>
+    <button id="new-quote-btn" onclick="generateQuote()" style="padding: 10px 20px; background-color: #ff69b4; color: white; border-radius: 12px; cursor: pointer;">Get New Quote</button>
+  </div>
 </p>
 
+<!-- Motivational Quote Script -->
+<script>
+  async function generateQuote() {
+    const response = await fetch('https://api.quotable.io/random');
+    const data = await response.json();
+    const quoteText = data.content || "Oops! No quotes available right now.";
+    document.getElementById('quote').textContent = `"${quoteText}"`;
+  }
+
+  // Initial quote load
+  generateQuote();
+</script>
+
+---
+
+## 🎭 Fun Facts
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshvinderSingh&layout=compact&theme=radical&hide_border=false" width="48%" />
+  <ul style="list-style-type: none; color: #f75c7e; font-size: 18px; font-weight: bold;">
+    <li>🧠 I love diving into new tech and exploring unknown horizons.</li>
+    <li>🎧 Music fuels my productivity, especially lo-fi beats while coding.</li>
+    <li>☕ Coffee is my coding companion, and bugs are my nemesis.</li>
+    <li>🛸 I'm passionate about building tech that simplifies life.</li>
+  </ul>
 </p>
 
 ---
 
-## 🌦️ Live Weather & 🌫️ Air Quality – Jalandhar, IN
+## 🎭 Dev Humor (18+ 🤫)
+
+<div id="joke-container" style="text-align: center; padding: 10px; background-color: #212121; border-radius: 12px;">
+  <h3 style="font-family: 'Fira Code', monospace; color: #f75c7e;">🤖 Here's a Dev Joke (18+ 😜)</h3>
+  <p id="joke-text" style="font-size: 18px; font-weight: bold; color: white;"></p>
+  <button id="new-joke-btn" onclick="getJoke()" style="padding: 10px 20px; background-color: #ff69b4; color: white; border-radius: 12px; cursor: pointer;">Get New Joke</button>
+</div>
+
+<!-- Joke Script -->
+<script>
+  async function getJoke() {
+    const response = await fetch('https://v2.jokeapi.dev/joke/Programming?lang=en&type=single');
+    const data = await response.json();
+    const jokeText = data.joke || "Oops! No jokes available right now.";
+    document.getElementById('joke-text').textContent = jokeText;
+  }
+
+  // Initial joke load
+  getJoke();
+</script>
+
+---
+
+## 🎮 Interactive Code Snippet
 
 <p align="center">
-  <iframe 
-    src="https://forecast7.com/en/31d63n74d87/jalandhar/?unit=us&theme=dark" 
-    frameborder="0" 
-    width="350" 
-    height="200" 
-    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
-  </iframe>
-</p>
-
-<p align="center">
-  <iframe 
-    width="340" 
-    height="200" 
-    style="border:0;border-radius: 12px;box-shadow: 0 4px 12px rgba(0,0,0,0.3);" 
-    src="https://aqicn.org/widget/widget.php?city=jalandhar&theme=dark&frame=yes&refresh=60">
-  </iframe>
+  <div style="background-color: #212121; color: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.5); width: 80%; text-align: center;">
+    <h3>Try this Python Code Snippet!</h3>
+    <p>Click to view a Python code snippet:</p>
+    <button onclick="alert('print(\"Hello, World!\")')" style="padding: 10px 20px; background-color: #ff69b4; color: white; border-radius: 12px; cursor: pointer;">View Code</button>
+  </div>
 </p>
 
 ---
 
-## 🤖 Chat With My AI Assistant
+## 📫 Let's Connect
 
 <p align="center">
-  <iframe 
-    src="https://www.chatbase.co/chatbot-iframe/YOUR_CHATBOT_ID_HERE"
-    width="100%" 
-    style="min-height: 400px; border-radius: 12px; border: none;" 
-    frameborder="0">
-  </iframe>
+  <a href="https://www.linkedin.com/in/harshvindersingh15122000/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:singh.harshvinder2000@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
-> 🧠 Replace `YOUR_CHATBOT_ID_HERE` with your [Chatbase](https://www.chatbase.co/) bot ID to go live!
 
 ---
 
-## 😂 Dev Humor (18+ 🤫)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 12px;" />
+</p>
 
-```txt
-Q: Why did the developer go broke?
-
-A: Because he used up all his cache... 👀💸
+<h3 align="center">⚡ Building the future, one line of code at a time ⚡</h3>
