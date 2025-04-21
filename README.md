@@ -77,15 +77,6 @@ I’m currently listening to **TRAVIS SCOTT**! 🎶
 
 [![Anime](https://img.shields.io/badge/Anime-FC4C9C?style=for-the-badge&logo=anime&logoColor=white)](https://hianimez.to/home)
 
-<p align="center">
-  <a href="https://github.com/HARSHVINDER-SINGH">
-    <img src="https://img.shields.io/badge/Theme-Light-%23FF69B4?style=for-the-badge&logo=github&logoColor=black" alt="Light Theme"/>
-  </a>
-  <a href="https://github.com/HARSHVINDER-SINGH">
-    <img src="https://img.shields.io/badge/Theme-Dark-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Dark Theme"/>
-  </a>
-</p>
-
 
 
 <p align="center">
