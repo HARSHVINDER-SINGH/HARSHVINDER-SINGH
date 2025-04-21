@@ -70,7 +70,7 @@ I’m currently listening to **TRAVIS SCOTT**! 🎶
 ---
 <!-- Profile Visitors Counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/HarshvinderSingh/count.svg" alt="Profile Visitors" />
+  <img src="https://profile-counter.glitch.me/HARSHVINDER-SINGH/count.svg" alt="Profile Visitors" />
 </p>
 
 **🎬 Bored? Let's dive into some anime adventures!**  
