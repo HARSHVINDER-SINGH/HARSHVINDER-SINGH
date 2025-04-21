@@ -50,6 +50,11 @@
 </p>
 
 ---
+🎧 What’s Playing?
+
+I’m currently listening to **TRAVIS SCOTT**! 🎶
+
+🎧 [Listen to Travis Scott – TIL FURTHER NOTICE ](https://youtu.be/zptRsa1pqsk?si=WEUnrxLJd-Ml11XC)
 
 ## 📫 Let's Connect
 
@@ -69,6 +74,7 @@
 </p>
 
 **🎬 Bored? Let's dive into some anime adventures!**  
+
 [![Anime](https://img.shields.io/badge/Anime-FC4C9C?style=for-the-badge&logo=anime&logoColor=white)](https://hianimez.to/home)
 
 <p align="center">
