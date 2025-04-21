@@ -1,4 +1,5 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#ff4d6d;">Harshvinder Singh</span></h1>
+<!-- HEADER -->
+<h1 align="center">Hey there 👋, I'm <span style="color:#f75c7e;">Harshvinder Singh</span></h1>
 <h3 align="center">🚀 Tech Explorer | 💡 Lifelong Learner | 🧠 AI Enthusiast</h3>
 
 <p align="center">
@@ -25,84 +26,87 @@
 
 ---
 
-## 🧠 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python&logoColor=yellow)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-181717?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![R](https://img.shields.io/badge/-R-181717?style=for-the-badge&logo=r&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=yellow)
-![HTML](https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS](https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3&logoColor=blue)
-![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git&logoColor=orange)
-![Streamlit](https://img.shields.io/badge/-Streamlit-181717?style=for-the-badge&logo=streamlit&logoColor=red)
-![Shiny](https://img.shields.io/badge/-Shiny-181717?style=for-the-badge&logo=RStudio&logoColor=blue)
-
----
-
-## 🏆 GitHub Trophies
+## 🧩 Skills Snapshot
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshvinderSingh&theme=tokyonight&margin-w=15&row=1&column=7" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,r,js,html,css,git,streamlit,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🎮 Flappy Bird Game
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshvinderSingh&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=HarshvinderSingh&theme=tokyonight&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshvinderSingh&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
-</p>
-
----
-
-## 📈 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshvinderSingh&theme=tokyo-night&hide_border=false" />
-</p>
-
----
-
-## 🎧 Currently Vibing To
-
-<p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3DQVGC1oRkTx83tD1ztCev?utm_source=generator" width="60%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</p>
-
----
-
-## 🕹️ Play a Game (Snake 🐍)
-
-<p align="center">
-  <a href="https://harshvindersingh.github.io/snake-game" target="_blank">
-    <img src="https://img.shields.io/badge/-Play%20Snake%20Game-%23121011?style=for-the-badge&logo=python&logoColor=green" />
-  </a>
-</p>
-
-> 🧠 Tip: Host the game on a GitHub repo (or use [this version](https://harshvindersingh.github.io/snake-game)) to personalize it.
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshvindersingh15122000/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:singh.harshvinder2000@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <iframe 
+    src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" 
+    width="300" 
+    height="200" 
+    frameBorder="0" 
+    allowFullScreen 
+    style="border-radius: 12px;">
+  </iframe>
+  <br><br>
+  <a href="https://flappybird.io/" target="_blank" align="center">
+    <img src="https://img.shields.io/badge/Play%20Flappy%20Bird-Click%20Here-ff69b4?style=for-the-badge&logo=game-controller&logoColor=white">
   </a>
 </p>
 
 ---
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshvinderSingh&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=HarshvinderSingh&theme=radical&hide_border=false" width="48%" />
 </p>
 
-<h3 align="center">⚡ Building the future, one line of code at a time ⚡</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshvinderSingh&layout=compact&theme=radical&hide_border=false" width="48%" />
+</p>
+
+---
+
+## 🌦️ Live Weather & 🌫️ Air Quality – Jalandhar, IN
+
+<p align="center">
+  <iframe 
+    src="https://forecast7.com/en/31d63n74d87/jalandhar/?unit=us&theme=dark" 
+    frameborder="0" 
+    width="350" 
+    height="200" 
+    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
+  </iframe>
+</p>
+
+<p align="center">
+  <iframe 
+    width="340" 
+    height="200" 
+    style="border:0;border-radius: 12px;box-shadow: 0 4px 12px rgba(0,0,0,0.3);" 
+    src="https://aqicn.org/widget/widget.php?city=jalandhar&theme=dark&frame=yes&refresh=60">
+  </iframe>
+</p>
+
+---
+
+## 🤖 Chat With My AI Assistant
+
+<p align="center">
+  <iframe 
+    src="https://www.chatbase.co/chatbot-iframe/YOUR_CHATBOT_ID_HERE"
+    width="100%" 
+    style="min-height: 400px; border-radius: 12px; border: none;" 
+    frameborder="0">
+  </iframe>
+</p>
+
+> 🧠 Replace `YOUR_CHATBOT_ID_HERE` with your [Chatbase](https://www.chatbase.co/) bot ID to go live!
+
+---
+
+## 😂 Dev Humor (18+ 🤫)
+
+```txt
+Q: Why did the developer go broke?
+
+A: Because he used up all his cache... 👀💸
